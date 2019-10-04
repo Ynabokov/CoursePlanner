@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="CoursePlanner_main" target="1.8" />
       <module name="CoursePlanner_test" target="1.8" />
+      <module name="Java-CoursePlanner_main" target="1.8" />
+      <module name="Java-CoursePlanner_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

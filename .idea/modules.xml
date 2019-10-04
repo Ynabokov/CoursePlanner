@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoursePlanner.iml" filepath="$PROJECT_DIR$/.idea/modules/CoursePlanner.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoursePlanner_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CoursePlanner_main.iml" group="CoursePlanner" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoursePlanner_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CoursePlanner_test.iml" group="CoursePlanner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoursePlanner_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CoursePlanner_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CoursePlanner_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CoursePlanner_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-CoursePlanner_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-CoursePlanner_main.iml" group="CoursePlanner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-CoursePlanner_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-CoursePlanner_test.iml" group="CoursePlanner" />
     </modules>
   </component>
 </project>
