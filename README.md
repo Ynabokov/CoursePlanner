@@ -1,3 +1,3 @@
 # Course Planner
 
-Course Planner is a web service written on Java for vizualization and analysis of course info.
+Course Planner is a web service based on SpringBoot for vizualization and analysis of  SFU courses info.
